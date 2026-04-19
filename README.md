@@ -1,16 +1,132 @@
-## Hi there 👋
+<!-- ===================== HEADER ===================== -->
+<h1 align="center">Hi 👋, I'm Arman Alam</h1>
+<h3 align="center">🚀 Aspiring Full Stack Web Developer | JavaScript Enthusiast</h3>
 
-<!--
-**Armanalam7790/Armanalam7790** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=500&lines=Passionate+Web+Developer;Building+Modern+UI+%26+Scalable+Apps;Always+Learning+New+Technologies" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 Introduction
+
+I’m **Arman Alam**, a passionate **Web Developer** focused on building modern, responsive, and user-friendly web applications.  
+I aim to grow into a **top-tier full stack developer** and create impactful digital products.
+
+---
+
+## 🚀 About Me
+
+- 🎓 BCA Student (2nd Year)
+- 💻 Strong in **HTML, CSS, JavaScript (ES6)**
+- ⚡ Experience with **GSAP animations & UI design**
+- 🌱 Currently learning **React.js & Backend Development**
+- 🎯 Goal: Become a **Full Stack Developer & Land a Top Tech Role**
+- 💡 Interested in **UI/UX, Performance Optimization, and Scalable Apps**
+
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 Languages & Tools
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
+
+### ⚡ Currently Expanding
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Armanalam7790&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Armanalam7790&theme=tokyonight&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armanalam7790&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🔥 Featured Projects
+
+### 🛒 E-commerce UI Clone
+- 🔹 Modern shopping UI inspired by Myntra  
+- ⚙️ Tech: HTML, CSS, JavaScript  
+- 🔗 https://github.com/Armanalam7790
+
+---
+
+### 🎵 Music Player UI
+- 🔹 Interactive UI with animations  
+- ⚙️ Tech: React, Tailwind, GSAP  
+- 🔗 https://github.com/Armanalam7790
+
+---
+
+### 🎨 Animated Landing Page
+- 🔹 Smooth animations with GSAP  
+- ⚙️ Tech: HTML, CSS, GSAP  
+- 🔗 https://github.com/Armanalam7790
+
+---
+
+### 🧩 UI Component Library
+- 🔹 Reusable components for faster development  
+- ⚙️ Tech: React, JavaScript  
+- 🔗 https://github.com/Armanalam7790
+
+---
+
+## 🌱 Currently Learning
+
+- ⚛️ Advanced **React.js**
+- 🟢 **Node.js & Backend Development**
+- 🧠 Data Structures & Algorithms
+- 🚀 Real-world project building
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+💡 I love turning **simple ideas into beautiful web experiences** — and I enjoy debugging more than most people 😄
+
+---
+
+<p align="center">
+  ⭐ *"Consistency + Smart Work = Success in Tech"* ⭐
+</p>
