@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <h1 align="center">Hi 👋, I'm Arman Alam</h1>
-<h3 align="center">🚀 Aspiring Full Stack Web Developer | JavaScript Enthusiast</h3>
+<h3 align="center"> Full Stack Web Developer | JavaScript Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=500&lines=Passionate+Web+Developer;Building+Modern+UI+%26+Scalable+Apps;Always+Learning+New+Technologies" />
